@@ -98,7 +98,7 @@ Right-click and hold the linked remote:
 ## Building From Source
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/H1ggsK/ShockableCollars
 cd ShockableCollars
 gradle build
 ```
