@@ -113,6 +113,7 @@ If you add a Gradle wrapper later:
 
 - **Zap sound** credit: [Sample Focus - Electric Zap](https://samplefocus.com/samples/electric-zap)
 - Remote on/off click behavior and visual inspiration: **PlayerCollars clicker**
+- **Icon** credit: [Web Fonts](https://www.onlinewebfonts.com/icon/517379) (per provided attribution / CC BY 4.0 notice)
 
 ## License
 
