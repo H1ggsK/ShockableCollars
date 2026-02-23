@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "shockablecollars",
+  "version": "${version}",
+  "name": "ShockableCollars",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/shockablecollars/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.h1ggsk.shockablecollars.client.ShockablecollarsDataGenerator"
+    ],
+    "client": [
+      "com.h1ggsk.shockablecollars.client.ShockablecollarsClient"
+    ],
+    "main": [
+      "com.h1ggsk.shockablecollars.Shockablecollars"
+    ]
+  },
+  "mixins": [
+    "shockablecollars.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}",
+    "playercollars": "*"
+  }
+}

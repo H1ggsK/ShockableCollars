@@ -1,0 +1,13 @@
+{
+  "death.attack.shockablecollars.shock": "%1$s didn't listen and got zapped",
+  "death.attack.shockablecollars.shock.item": "%1$s didn't listen and got zapped by %2$s using %3$s",
+  "death.attack.shockablecollars.shock.player": "%1$s didn't listen and got zapped by %2$s",
+  "enchantment.shockablecollars.shock": "Shock",
+  "item.shockablecollars.shock_remote": "Shock Remote",
+  "item.shockablecollars.shock_remote.linked": "%s's Shock Remote",
+  "sound.shockablecollars.remote_on": "Shock remote clicks on",
+  "sound.shockablecollars.remote_off": "Shock remote clicks off",
+  "subtitles.shockablecollars.remote_on": "Shock remote clicks on",
+  "subtitles.shockablecollars.remote_off": "Shock remote clicks off",
+  "subtitles.shockablecollars.zap": "Zap"
+}

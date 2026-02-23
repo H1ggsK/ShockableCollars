@@ -1,0 +1,5 @@
+{
+  "type": "playercollars:owner_transfer",
+  "base": "shockablecollars:shock_remote",
+  "category": "misc"
+}

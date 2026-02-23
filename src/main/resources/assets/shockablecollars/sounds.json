@@ -1,0 +1,20 @@
+{
+  "remote_on": {
+    "subtitle": "subtitles.shockablecollars.remote_on",
+    "sounds": [
+      "shockablecollars:remote_on"
+    ]
+  },
+  "remote_off": {
+    "subtitle": "subtitles.shockablecollars.remote_off",
+    "sounds": [
+      "shockablecollars:remote_off"
+    ]
+  },
+  "zap": {
+    "subtitle": "subtitles.shockablecollars.zap",
+    "sounds": [
+      "shockablecollars:zap"
+    ]
+  }
+}
