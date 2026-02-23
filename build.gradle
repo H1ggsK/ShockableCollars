@@ -107,5 +107,5 @@ publishing {
 
 
 tasks.withType(ProcessResources).configureEach {
-    duplicatesStrategy = DuplicatesStrategy.INCLUDE // Gradle yelled at me that there was a recipe duplicate
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE // Gradle yelled at me that there was a recipe duplicate
 }
